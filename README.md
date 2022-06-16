@@ -7,13 +7,18 @@
  Quartus prime
 
 
-### Procedure 
+# Procedure 
+
+### STEP 1:
 Start the Quartus II Programmer.
-![git](04.jpeg)
+
+### STEP 2:
 Click Add File and select the path to the desired .sof.
 ![git](01.png)
+### STEP 3:
 Turn on the Program/Configure option for the added file.
 ![git](02.png)
+### STEP 4:
 Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
 ![git](03.png)
  
@@ -25,4 +30,5 @@ Click Start to download the selected file to the FPGA. Configuration is complete
 
 ### RESULT
 Thus we have understand the standard procedure to interface an FPGA board and flashing method using usb blaster.
+![git](04.jpeg)
 
